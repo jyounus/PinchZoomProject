@@ -3,4 +3,5 @@ var args = $.args;
 
 (function() {
     $.webView.url = args.url;
+    //$.imageView.image = args.url;
 })();

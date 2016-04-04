@@ -1,5 +1,8 @@
 <Alloy>
 	<Window id="win">
 	    <WebView id="webView"/>
+	    <!--<ScrollView minZoomScale="0.1" maxZoomScale="2.0" zoomScale="1.0">
+	       <ImageView id="imageView" enableZoomControls="true" />
+	   </ScrollView>-->
    </Window>
 </Alloy>
